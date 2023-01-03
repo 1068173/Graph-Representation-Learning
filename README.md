@@ -2,7 +2,7 @@
 Candidate Number: 1068173
 
 ### Running
-This Jupyter Notebook can be diectly run in the Colab
+This Jupyter Notebook can be directly run in the Colab
 
 ### Content
 - Install and Import
